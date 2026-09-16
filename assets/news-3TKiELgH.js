@@ -1,0 +1,1 @@
+var e=`/crafting-image-tic/news.png`;export{e as t};
